@@ -1,0 +1,42 @@
+commit 57e8db181dc58aa14aef1ac9c5fae79729f5dcda
+Merge: 5f828a6 71444cd
+Author: Michael Lieng <mlieng2005@gmail.com>
+Date:   Thu Sep 4 12:00:54 2025 -0700
+
+    Resolved merge conflict, merged both html files
+
+commit 71444cd78db57a855681f7ac09787c32033b95f8
+Author: Michael Lieng <mlieng2005@gmail.com>
+Date:   Thu Sep 4 11:55:30 2025 -0700
+
+    Added div for favorite movie
+
+commit 5f828a672a00a605f4640095593766e0316faeba
+Author: Michael Lieng <mlieng2005@gmail.com>
+Date:   Thu Sep 4 11:54:02 2025 -0700
+
+    Added div for favorite drink
+
+commit 2774609f63671c23f1cfa621ad91baf5806b229f
+Author: michaell5 <150098981+michaell5@users.noreply.github.com>
+Date:   Thu Sep 4 11:44:56 2025 -0700
+
+    Create README.md
+
+commit 8bdcebd04afed9184a102d5ca576c25237e4cca1
+Author: Michael Lieng <mlieng2005@gmail.com>
+Date:   Thu Sep 4 11:39:19 2025 -0700
+
+    added info in div
+
+commit baa38f3cc387ce75fb3d9afa1c8676a6126dff7c
+Author: Michael Lieng <mlieng2005@gmail.com>
+Date:   Fri Aug 29 10:40:01 2025 -0700
+
+    Filled out details
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
